@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante do curso de Análise e Desenvolvimento de Sistemas <br>👯 Estou a procura de um estágio<br>🌱 Atualmente estou focado no desenvolvimento Back-End<br>
+🔭 Sou estudante do curso de Análise e Desenvolvimento de Sistemas <br>👯 Estou a procura de um estágio na área de tecnologia<br>🌱 Atualmente estou focado no desenvolvimento Back-End<br>
 
 
 ## 🌐 Socials:
